@@ -211,8 +211,8 @@
     {
       "name": "Smersh",
       "source": "https://github.com/CMEPW/Smersh",
-      "description": "Smersh is a pentest oriented collaborative tool used to track the progress of your company's missions and generate report",
-      "language": "JavaScript",
+      "description": "Pentest oriented collaborative tool used to track the progress of your company's engagements and generate reports",
+      "language": "PHP",
       "price": "Free",
       "online": "False"
     },
